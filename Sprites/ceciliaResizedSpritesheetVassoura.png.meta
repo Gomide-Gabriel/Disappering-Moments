@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 987442deea425c842b7e8c8ee4bc105d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8098998395337768725
+    second: ceciliaResizedSpritesheetVassoura_0
+  - first:
+      213: 248614026021924936
+    second: ceciliaResizedSpritesheetVassoura_1
+  - first:
+      213: 5969288141603234834
+    second: ceciliaResizedSpritesheetVassoura_2
+  - first:
+      213: -3771840924124037626
+    second: ceciliaResizedSpritesheetVassoura_3
+  - first:
+      213: 3784589568035126434
+    second: ceciliaResizedSpritesheetVassoura_4
+  - first:
+      213: -6290604701022637789
+    second: ceciliaResizedSpritesheetVassoura_5
+  - first:
+      213: -4943053561285328032
+    second: ceciliaResizedSpritesheetVassoura_6
+  - first:
+      213: 7866308232411818503
+    second: ceciliaResizedSpritesheetVassoura_7
+  - first:
+      213: 8221345871157404367
+    second: ceciliaResizedSpritesheetVassoura_8
+  - first:
+      213: 1700082391640878063
+    second: ceciliaResizedSpritesheetVassoura_9
+  - first:
+      213: 66701571068782678
+    second: ceciliaResizedSpritesheetVassoura_10
+  - first:
+      213: -4390781300145099136
+    second: ceciliaResizedSpritesheetVassoura_11
+  - first:
+      213: -993061434252178532
+    second: ceciliaResizedSpritesheetVassoura_12
+  - first:
+      213: 7278397677946103752
+    second: ceciliaResizedSpritesheetVassoura_13
+  - first:
+      213: -7281015175816373204
+    second: ceciliaResizedSpritesheetVassoura_14
+  - first:
+      213: 4951832708851984047
+    second: ceciliaResizedSpritesheetVassoura_15
+  - first:
+      213: 2514324539523228505
+    second: ceciliaResizedSpritesheetVassoura_16
+  - first:
+      213: 3369734425600288115
+    second: ceciliaResizedSpritesheetVassoura_17
+  - first:
+      213: 38961319318538495
+    second: ceciliaResizedSpritesheetVassoura_18
+  - first:
+      213: -8773439339904030689
+    second: ceciliaResizedSpritesheetVassoura_19
+  - first:
+      213: -2723956783109235638
+    second: ceciliaResizedSpritesheetVassoura_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 640
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff096512c656070800000000000000
+      internalID: 8098998395337768725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407733b321437300800000000000000
+      internalID: 248614026021924936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 640
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214663a20fb27d250800000000000000
+      internalID: 5969288141603234834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 640
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3e40e9aab7abc0800000000000000
+      internalID: -3771840924124037626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 640
+        width: 80
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf1671920958430800000000000000
+      internalID: 3784589568035126434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 480
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b42d7a5843b8a0800000000000000
+      internalID: -6290604701022637789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 480
+        width: 60
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063cbd5b9feb66bb0800000000000000
+      internalID: -4943053561285328032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 480
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a23aee8adba2d60800000000000000
+      internalID: 7866308232411818503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 480
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc226f1e286181270800000000000000
+      internalID: 8221345871157404367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 480
+        width: 60
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba6a28de7e79710800000000000000
+      internalID: 1700082391640878063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 60
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e389b9b8fce000800000000000000
+      internalID: 66701571068782678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 320
+        width: 65
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6c6ebbafc013c0800000000000000
+      internalID: -4390781300145099136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 320
+        width: 80
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b424313efe732f0800000000000000
+      internalID: -993061434252178532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 320
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c761002020120560800000000000000
+      internalID: 7278397677946103752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 320
+        width: 65
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9c392643a4fa90800000000000000
+      internalID: -7281015175816373204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6684edc9178b440800000000000000
+      internalID: 4951832708851984047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 75
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536454e8dca4e220800000000000000
+      internalID: 2514324539523228505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756f414b93b3ce20800000000000000
+      internalID: 3369734425600288115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 160
+        width: 65
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff846fd0d1b6a8000800000000000000
+      internalID: 38961319318538495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 160
+        width: 65
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18259e676b7e3680800000000000000
+      internalID: -8773439339904030689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaResizedSpritesheetVassoura_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1247ecbf823ad0800000000000000
+      internalID: -2723956783109235638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

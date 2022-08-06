@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 2297e160a9664e34685cd35efda24180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4933413113191176110
+    second: ceciliaSleep_Spritesheet_0
+  - first:
+      213: -7871103555387752874
+    second: ceciliaSleep_Spritesheet_1
+  - first:
+      213: 2628861520700103384
+    second: ceciliaSleep_Spritesheet_2
+  - first:
+      213: -6971590374016825884
+    second: ceciliaSleep_Spritesheet_3
+  - first:
+      213: 8874321134376352790
+    second: ceciliaSleep_Spritesheet_4
+  - first:
+      213: 6315844036660557241
+    second: ceciliaSleep_Spritesheet_5
+  - first:
+      213: -5588121170384471944
+    second: ceciliaSleep_Spritesheet_6
+  - first:
+      213: -8687792504422463216
+    second: ceciliaSleep_Spritesheet_7
+  - first:
+      213: -4606799846372317702
+    second: ceciliaSleep_Spritesheet_8
+  - first:
+      213: 4469739542463565870
+    second: ceciliaSleep_Spritesheet_9
+  - first:
+      213: 2701329851143516043
+    second: ceciliaSleep_Spritesheet_10
+  - first:
+      213: 7624803736533062212
+    second: ceciliaSleep_Spritesheet_11
+  - first:
+      213: 2373843259899951076
+    second: ceciliaSleep_Spritesheet_12
+  - first:
+      213: -4509770018842740846
+    second: ceciliaSleep_Spritesheet_13
+  - first:
+      213: 5807841894202050991
+    second: ceciliaSleep_Spritesheet_14
+  - first:
+      213: -6180476579220497868
+    second: ceciliaSleep_Spritesheet_15
+  - first:
+      213: -5666249213271183229
+    second: ceciliaSleep_Spritesheet_16
+  - first:
+      213: 8542290256782501193
+    second: ceciliaSleep_Spritesheet_17
+  - first:
+      213: 4606089255497493593
+    second: ceciliaSleep_Spritesheet_18
+  - first:
+      213: 7922959853524761786
+    second: ceciliaSleep_Spritesheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 215
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7930e8611077440800000000000000
+      internalID: 4933413113191176110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 615
+        width: 215
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7ccee40934c290800000000000000
+      internalID: -7871103555387752874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 614
+        width: 215
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad501ff979b7420800000000000000
+      internalID: 2628861520700103384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 615
+        width: 215
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c13ded7fef3f90800000000000000
+      internalID: -6971590374016825884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 615
+        width: 215
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3190455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7e35bd0ce72b70800000000000000
+      internalID: 8874321134376352790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 215
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5fbe540b266a750800000000000000
+      internalID: 6315844036660557241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 410
+        width: 215
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b46517610372b0800000000000000
+      internalID: -5588121170384471944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 410
+        width: 215
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01909934fb2ce6780800000000000000
+      internalID: -8687792504422463216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 410
+        width: 215
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af567a592fb5110c0800000000000000
+      internalID: -4606799846372317702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 410
+        width: 215
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20de03ae64b70e30800000000000000
+      internalID: 4469739542463565870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 215
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6196ff2d0d7520800000000000000
+      internalID: 2701329851143516043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 205
+        width: 215
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442df16b99eb0d960800000000000000
+      internalID: 7624803736533062212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 205
+        width: 215
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7bac22ed591f020800000000000000
+      internalID: 2373843259899951076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 204
+        width: 215
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fb28cf041a61c0800000000000000
+      internalID: -4509770018842740846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 205
+        width: 215
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98b877e69999050800000000000000
+      internalID: 5807841894202050991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 215
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad0f8fb498a3aa0800000000000000
+      internalID: -6180476579220497868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 215
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38072229c507d51b0800000000000000
+      internalID: -5666249213271183229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 215
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452dc3cabf4c8670800000000000000
+      internalID: 8542290256782501193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 215
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ceba516cd1cef30800000000000000
+      internalID: 4606089255497493593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ceciliaSleep_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 215
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3607520204fd60800000000000000
+      internalID: 7922959853524761786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
