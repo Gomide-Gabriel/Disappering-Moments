@@ -1,0 +1,10 @@
+
+
+
+    {
+        "text": "José: Não quero comer não, tô sem fome",
+        "choices": ["Ta bom, não precisa se forçar venha quando tiver vontade ", "Ah tá bom, quer trocar o cardápio então? Uma coisa mais leve…"],
+        "rotaA":["José: Ok então..."],
+        "rotaB":["José: Me parece uma boa ideia!"]
+    }
+

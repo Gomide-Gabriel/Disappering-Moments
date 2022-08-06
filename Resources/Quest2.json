@@ -1,0 +1,9 @@
+
+    {
+        
+    "text": "José: Eu não to afim de sair de casa agora não.",
+    "choices": ["tem certeza? acho que você precisa de ar fresco. ", "(suspiro) Tudo bem, podemos sair outra hora...", "olha eu realmente acho que você deveria sair, você não pode ficar em casa o tempo tod ", "Tá bom, você que sabe."],
+    "rotaA":["%José: Haha não se preocupe, estou bem."],
+    "rotaB":["José: Ok... " ]
+
+    }

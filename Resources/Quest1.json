@@ -1,0 +1,11 @@
+
+
+
+    {
+        
+    "text": "José: Mas eu não almocei ainda",
+    "choices": ["mas José, você já almoçou, não lembra", "se bem me lembro você tinha almoçado, tivemos algo especial hoje" ],
+    "rotaA": ["José: Ah... é mesmo?...ok então.", "Cecilia : Algo errado?", "José: ah...não é nada."],
+    "rotaB": ["José: Ah sim, me lembro, comemos bife hoje!", "Cecilia: Exatamente"]
+
+    }

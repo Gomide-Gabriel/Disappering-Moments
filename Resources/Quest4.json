@@ -1,0 +1,15 @@
+{
+
+    "text": "José: Vou comer uns docinhos ali",
+    "choices": [
+        "José, melhor não", 
+        "Sem doce por hoje, já comeu açúcar demais",
+        "%:APor que faz mal comer muito.",
+        "%:APor que você pode agravar uma diabete. com essa quantidade de açúcar",
+        "%:BNão, paro por hoje",
+        "%:BVocê não pode José, vai dar problemas no futuro, amanhã você come."
+
+        ],
+    "rotaA": ["%José:  porque ","&:AJosé: ah… tá bom então né.","&:BJosé: Ah realmente, faz sentido"],
+    "rotaB": ["%José: ahh… mas só mais um","&:AJosé: puxa vida", "&:BJosé: ta isso é um bom argumento"]
+}
